@@ -14,13 +14,11 @@
 
 #/////////////////////////////
 #// IMPORT MODULES HERE     //
-#/////////////////////////////     
+#///////////////////////////// 
 import pyaudio
 import wave
 import sys, os
 import numpy
-import scipy.signal as ss
-from scipy import *
 from optparse import OptionParser
 
 
